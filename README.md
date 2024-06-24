@@ -1,6 +1,5 @@
 # Primeiro-desafio---Data-Analytics-com-Power-BI
 
-Descrição do Desafio de Power BI
 Neste projeto, vou me desafiar a replicar e criar visuais utilizando o Power BI. O objetivo principal é desenvolver minhas habilidades de criação de visuais e familiarizar-me com as ferramentas oferecidas pelo Power BI. Aqui estão os detalhes do que foi feito:
 
 Parte 1: Replicação de Páginas
